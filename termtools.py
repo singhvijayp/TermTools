@@ -1,5 +1,5 @@
 import os, sys, time
-# Coded by github.com/singhvijayp
+# Coded by github.com/vsin9h
 # Copy with credits
 
 R="\033[1;31m"
@@ -11,7 +11,7 @@ print (R+"""
       _ ____ ____ _  _ _  _ ____ _  _
       | |__/ |  | |\ | |\/| |__| |\ |
       | |  \ |__| | \| |  | |  | | \|
-"""    + G+"""              v2.0, Dev: @singhvijayp """)
+"""    + G+"""                   v2.0, Dev: @vsin9h """)
 time.sleep(2)
 print("  ")
 print(" \033[1;36mInstall the tool by their respective no. ")
@@ -162,7 +162,7 @@ elif k == "12" :
                time.sleep(3)
                os.system("clear")
                time.sleep(2)
-               os.system("apt update && apt upgrade -y && apt install git && cd && git clone https://github.com/singhvijayp/TermBase.git && cd TermBase && bash term.sh")
+               os.system("apt update && apt upgrade -y && apt install git && cd && git clone https://github.com/vsin9h/TermBase.git && cd TermBase && bash term.sh")
 elif k == "13" :
                print("Installing MailDiya... ")
                time.sleep(3)
@@ -270,7 +270,7 @@ elif k == "30" :
                time.sleep(3)
                os.system("clear")
                time.sleep(2)
-               os.system("apt update && apt upgrade -y && apt install git python -y && cd && git clone https://github.com/singhvijayp/TermDistro.git && cd TermDistro && python distro.py")
+               os.system("apt update && apt upgrade -y && apt install git python -y && cd && git clone https://github.com/vsin9h/TermDistro.git && cd TermDistro && python distro.py")
 elif k == "31" :
                print("Installing Virus4... ")
                time.sleep(3)
@@ -468,7 +468,7 @@ elif k == "63" :
                time.sleep(3)
                os.system("clear")
                time.sleep(2)
-               os.system("apt update && apt upgrade -y && apt install git python python2 -y && cd && git clone https://github.com/singhvijayp/PhoneSploit.git && cd PhoneSploit && bash ps.sh")
+               os.system("apt update && apt upgrade -y && apt install git python python2 -y && cd && git clone https://github.com/vsin9h/PhoneSploit.git && cd PhoneSploit && bash ps.sh")
 elif k == "64" :
                print("Installing tweetshell... ")
                time.sleep(3)
@@ -480,7 +480,7 @@ elif k == "65" :
                time.sleep(3)
                os.system("clear")
                time.sleep(2)
-               os.system("apt update && apt upgrade -y && apt install git -y && cd && git clone https://github.com/singhvijayp/userrecon.git && cd userrecon && bash userrecon.sh")
+               os.system("apt update && apt upgrade -y && apt install git -y && cd && git clone https://github.com/vsin9h/userrecon.git && cd userrecon && bash userrecon.sh")
 elif k == "66" :
                print("Installing websploit... ")
                time.sleep(3)
